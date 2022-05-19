@@ -1,5 +1,5 @@
 
-<img align="right" width=400px alt="Myface" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif" />
+<img align="right" width=400px alt="techgirl" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif" />
 
 <h1 align="center">Hi 👋 I'm Ashley Yarbrough</h1>
   
