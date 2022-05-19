@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 I'm Ashley Yarbrough</h1>
+<p align="center">
 <img align="right" src="https://i.pinimg.com/originals/11/96/89/119689d2f8ae50053501afb4190e23f6.gif" width="400" alt="techgirl">
-
-
+</p>
+<h1 align="center">Hi 👋 I'm Ashley Yarbrough</h1>
   
 - 👀 I’m interested in diversity in technology and preventing bias in data.
 - 📖 I've completed a Web Development Bootcamp involving HTML, CSS, and JavaScript.
