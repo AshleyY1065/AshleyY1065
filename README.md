@@ -14,18 +14,8 @@ AshleyY1065/AshleyY1065 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
 <br>
-<h2 align="center">Connect with me:</h2>
-
-Feel free to reach me:
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ashley-yarbrough-414018113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maazshakeel" height="40" width="40"></a>&emsp;
-<a href="mailto:AshleyY1065@gmail.com" target="_blank"><img align = "center" src="https://github.com/NazomU/NazomU/blob/main/gmail.png" alt="Gmail Logo" height = "60" width="60"></a>&emsp;
-</p>
 <br>
-
 <h2 align="center">Languages and Tools:</h2>
 
 
@@ -49,5 +39,17 @@ Feel free to reach me:
 </p>
 
 <br>
-<!--- INSERT CLOUD PLATFORMS & SERVICES HERE SOON
+
+
+<h2 align="center">Contact Me:</h2>
+
+Feel free to reach me at:
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ashley-yarbrough-414018113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maazshakeel" height="40" width="40"></a>&emsp;
+<a href="mailto:AshleyY1065@gmail.com" target="_blank"><img align = "center" src="https://github.com/NazomU/NazomU/blob/main/gmail.png" alt="Gmail Logo" height = "60" width="60"></a>&emsp;
+</p>
+<br>
+
+<!--- INSERT ... SOON
 ---> 
