@@ -6,7 +6,7 @@
 - 👀 I’m interested in diversity in technology and preventing bias in data.
 - 📖 I've completed a Web Development Bootcamp involving HTML, CSS, and JavaScript.
 - 🌱 Most recently I completed a Back End Bootcamp involving Python, SQL, and DevOps.
-- 👯 I’m looking to collaborate on all kinds of Front End and Back end projects.
+- 👯 I’m looking to collaborate on all kinds of Front End and Back End projects.
 - 📫 How to reach me AshleyY1065@gmail.com
 
 <!---
