@@ -32,6 +32,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>&emsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="60" height="60"/></a>&emsp;
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript icon" width="60" height="60"/></a>&emsp;
+<a href="https://www.getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap icon" width="60" height="60"/></a>&emsp;
+<a href="https://www.nodejs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node JS icon" width="60" height="60"/></a>&emsp;
 <br>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services icon" width="80"/></a>&emsp;
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud Platform icon" width="80"/></a>&emsp;
