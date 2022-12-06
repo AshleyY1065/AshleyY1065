@@ -56,7 +56,7 @@ Feel free to reach me at:
 
 
 
-<!--- INSERT ... SOON
+<!--- INSERT REACT & NATIVE ICONS + PROJECTS ... SOON
 ---> 
 
 
