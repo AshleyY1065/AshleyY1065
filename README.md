@@ -57,7 +57,7 @@ Feel free to reach me at:
 
 
 
-<!--- INSERT REACT & NATIVE ICONS + PROJECTS ... SOON
+<!--- INSERT PROJECTS ... SOON
 ---> 
 
 
