@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋 I'm Ashley Yarbrough</h1> 
   
-- 👀 I’m interested in diversity in technology and preventing bias in data.
+- 👀 I’m a Full Stack Developer interested in diversity in technology and preventing bias in data.
 - 📖 I've completed a Web Development Bootcamp involving HTML, CSS, and JavaScript.
 - 🌱 I then finished a Back End Bootcamp involving Python, SQL, and DevOps.
 - 🌐 Most recently I completed a Front End Bootcamp using Boostrap, React, and React Native.
