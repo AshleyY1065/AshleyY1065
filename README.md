@@ -6,7 +6,7 @@
 - 👀 I’m a Full Stack Developer interested in diversity in technology and preventing bias in data.
 - 📖 I've completed a Web Development Bootcamp involving HTML, CSS, and JavaScript.
 - 🌱 I then finished a Back End Bootcamp involving Python, SQL, and DevOps.
-- 🌐 Most recently I completed a Front End Bootcamp using Boostrap, React, and React Native.
+- 🌐 Most recently I completed a Front End Bootcamp using Bootstrap, React, and React Native.
 - 👯 I’m looking to collaborate on all kinds of Front End and Back End projects.
 - 📫 How to reach me: AshleyY1065@gmail.com
 
