@@ -8,6 +8,7 @@
 - 🌱 I then finished a Back End Bootcamp involving Python, SQL, and DevOps.
 - 🌐 Most recently I completed a Front End Bootcamp using Bootstrap, React, and React Native.
 - 👯 I’m looking to collaborate on all kinds of Front End and Back End projects.
+- 🇲🇽 Bilingual in English and Spanish.
 - 📫 How to reach me: AshleyY1065@gmail.com
 
 <!---
