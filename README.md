@@ -60,7 +60,7 @@ Feel free to reach me at:
 
 
 
-<!--- INSERT PROJECTS ... SOON
+<!--- INSERT PROJECTS ... coming soon
 
 ---> 
 
