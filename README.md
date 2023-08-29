@@ -60,6 +60,6 @@ Feel free to reach me at:
 
 
 
-<!--- INSERT PROJECTS ... coming soon
+<!--- INSERT PROJECTS ... TBD....
 
 ---> 
